@@ -4,8 +4,11 @@ Credit Risk Prediction is a machine learning project aimed at predicting the lik
 
 ### There are 20 features and a class predictior with assigned credit risk.
 Attribute1: Status of existing checking account
+
 Attribute2: Duration
+
 Attribute3: Credit history
+
 Attribute4: Purpose
 
 Attribute5: Credit amount
