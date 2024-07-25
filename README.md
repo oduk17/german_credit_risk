@@ -2,7 +2,7 @@
 
 Credit Risk Prediction is a machine learning project aimed at predicting the likelihood of a borrower defaulting on a loan. This project utilizes a variety of statistical and machine learning models to analyze historical loan data and identify patterns that indicate credit risk. By accurately predicting credit risk, financial institutions can make better lending decisions, minimize defaults, and improve overall financial stability. The original credit dataset for this project in the form provided by Prof. Hofmann, contains categorical/symbolic attributes and classifies people described by a set of attributes as good or bad credit risks.
 
-#### There are 20 features and a class predictior with assigned credit risk.
+### There are 20 features and a class predictior with assigned credit risk.
 Attribute1: Status of existing checking account
 Attribute2: Duration
 Attribute3: Credit history
@@ -25,7 +25,7 @@ Attribute19: Telephone
 Attribute20: foreign worker
 class: 1 = Good, 2 = Bad
 
-#### Additional Variable Information
+### Additional Variable Information
 Attribute 1:  (qualitative)      
  Status of existing checking account
              A11 :      ... <    0 DM
